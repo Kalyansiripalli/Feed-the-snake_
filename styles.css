@@ -1,5 +1,5 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    background: url(../bg.jpg);
+    background-image: url("bg.jpg");
 }
